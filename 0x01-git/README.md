@@ -1,1 +1,2 @@
-my second commit
+README for Git Directory
+Updated on Github.com
